@@ -23,6 +23,8 @@ int main(){
     cin >> datamu[2];
     cout << "Isikan data keempat : ";
     cin >> datamu[3];
+    cout << "Isikan data ke lima : ";
+    cin >> datamu[4];
 
     
 
