@@ -28,7 +28,8 @@ int main(){
     cout << endl;
 
     //menampilkan data dengan perintah satu persatu
-    
+    cout << "data pertama = " << datamu[0] << endl;
+
 
     
 
