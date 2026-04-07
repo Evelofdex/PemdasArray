@@ -12,6 +12,7 @@ struct Orang
 int main(){
     //Deklarasi variable struct
     Orang mhs;
+    //mengisi data 
     cout << "Isikan data nama : ";
     cin >> mhs.nama;
     cout << "Isikan data alamat : ";
@@ -19,4 +20,9 @@ int main(){
     cout << "Isikan data umur : ";
     cin >> mhs.umur;
     cout << endl;
+
+    cout << "Data tapil" << endl;
+    cout << "Nama : " << mhs.nama << endl;
+    cout << "Alamat : " << mhs.nama << endl;
+    cout << "Umur : " << mhs.umur << endl;
 }
