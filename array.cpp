@@ -45,9 +45,11 @@ int main(){
 
     cout << "Tampil data array menggunakan for" << endl;
     //menampilkan data dengan perulangan
-
-
-    
+    for (int i = 0; i <=4; i++){
+        cout << "data mu ke-" << (i + 1) << endl;
+    }
+    cout << endl;
+        
 
 
 
